@@ -1,0 +1,32 @@
+.logo {
+    height: 70px;
+    vertical-align:  middle;
+}
+.logo + .title {
+    vertical-align:  middle;
+}
+.margin-20 {
+    margin: 20px;
+}
+.discord > img {
+    vertical-align:  bottom;
+}
+.section-header {
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.margin-bottom-10 {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.plugin-desc {
+    opacity: 0.5;
+}
+.dl-desc {
+    opacity: 0.6;
+    margin: -6px 0 0 0;
+    font-size: 13px;
+    display: inline-block;
+}
